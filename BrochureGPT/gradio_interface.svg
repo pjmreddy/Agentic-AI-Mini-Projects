@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#ffffff"/>
+  
+  <!-- Form Container -->
+  <rect x="100" y="50" width="600" height="300" fill="#f8f9fa" rx="10"/>
+  
+  <!-- Title -->
+  <text x="400" y="100" font-family="Arial" font-size="24" fill="#212529" text-anchor="middle">BrochureGPT Interface</text>
+  
+  <!-- Company Name Input -->
+  <rect x="150" y="130" width="500" height="40" fill="#ffffff" stroke="#ced4da" rx="5"/>
+  <text x="150" y="120" font-family="Arial" font-size="14" fill="#495057">Company name:</text>
+  
+  <!-- URL Input -->
+  <rect x="150" y="200" width="500" height="40" fill="#ffffff" stroke="#ced4da" rx="5"/>
+  <text x="150" y="190" font-family="Arial" font-size="14" fill="#495057">Landing page URL including http:// or https://</text>
+  
+  <!-- Buttons -->
+  <rect x="150" y="270" width="240" height="40" fill="#e9ecef" rx="5"/>
+  <text x="270" y="295" font-family="Arial" font-size="14" fill="#212529" text-anchor="middle">Clear</text>
+  
+  <rect x="410" y="270" width="240" height="40" fill="#fd7e14" rx="5"/>
+  <text x="530" y="295" font-family="Arial" font-size="14" fill="#ffffff" text-anchor="middle">Submit</text>
+</svg>
