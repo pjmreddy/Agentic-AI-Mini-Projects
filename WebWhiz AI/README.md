@@ -1,13 +1,22 @@
+<div align="center">
+
 # WebWhiz AI
 
-An intelligent website summarization tool powered by local Ollama LLM that extracts and analyzes web content to generate structured Markdown summaries.
+🤖 An intelligent website summarization tool powered by local Ollama LLM that extracts and analyzes web content to generate structured Markdown summaries.
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Ollama](https://img.shields.io/badge/Ollama-%E2%89%A50.1.0-green)](https://ollama.ai/)
+[![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%E2%89%A54.12.0-orange)](https://www.crummy.com/software/BeautifulSoup/)
+[![IPython](https://img.shields.io/badge/IPython-%E2%89%A58.22.0-yellow)](https://ipython.org/)
+
+</div>
 
 ## 🚀 Features
 
 - **Smart Web Scraping**: Efficiently extracts content using BeautifulSoup
 - **Local AI Processing**: Leverages Ollama (llama3.2 model) and Open AI (gpt-4o-mini) for privacy-focused analysis
 - **Markdown Output**: Generates well-structured, readable summaries
-- **Interactive Usage**: Seamless integration with Jupyter notebooks.
+- **Interactive Usage**: Seamless integration with Jupyter notebooks
 
 ## 📋 Requirements
 
@@ -86,4 +95,8 @@ Here's a sample of what WebWhiz AI generates:
 - NCAA Division I athletics
 - Cultural diversity programs
 
-### END
+---
+
+<div align="center">
+Made with ❤️ by <a href="mailto:pervali810@gmail.com">pervali810@gmail.com</a>
+</div>
