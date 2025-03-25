@@ -64,7 +64,7 @@ BrochureGPT is an innovative tool that transforms website content into well-stru
 
 ### 🌟 Example Output
 
-![Greek Restaurant Example](Result.png)
+![Greek Restaurant Example](Result.jpg)
 
 As shown above, BrochureGPT can generate engaging, creative content for various business types. This example demonstrates a brochure for a Greek restaurant, showcasing how the tool adapts its tone and content to match different business needs.
 
