@@ -118,5 +118,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-Made with ❤️ @peravali810@gmail.com
+Made with ❤️ by <a href="mailto:pervali810@gmail.com">pervali810@gmail.com</a>
 </div>
