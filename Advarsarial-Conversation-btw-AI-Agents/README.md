@@ -67,13 +67,11 @@ Contributions are welcome! Here's how you can help:
 5. Push to the branch (`git push origin feature/improvement`)
 6. Create a Pull Request
 
-<div align="center">
-Made with ❤️ by <a href="mailto:pervali810@gmail.com">pervali810@gmail.com</a>
-</div>
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - OpenAI for providing the foundation models
 - The open-source community for various tools and libraries used in this project
+
+- <div align="center">
+Made with ❤️ by <a href="mailto:pervali810@gmail.com">pervali810@gmail.com</a>
+</div>
