@@ -106,4 +106,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<p align="center">Made with ❤️ for the open-source community</p>
+<div align="center">
+Made with ❤️ by <a href="mailto:pervali810@gmail.com">pervali810@gmail.com</a>
+</div>
