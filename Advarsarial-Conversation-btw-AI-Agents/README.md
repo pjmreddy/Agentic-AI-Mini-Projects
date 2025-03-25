@@ -72,6 +72,6 @@ Contributions are welcome! Here's how you can help:
 - OpenAI for providing the foundation models
 - The open-source community for various tools and libraries used in this project
 
-- <div align="center">
+<div align="center">
 Made with ❤️ by <a href="mailto:pervali810@gmail.com">pervali810@gmail.com</a>
 </div>
